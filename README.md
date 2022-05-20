@@ -1,5 +1,5 @@
 # Hepman-compression
-This project made by Sapir Naugauker and Daniel bugdari.
+This project made by Sapir Naugauker.
 
 change of the Hepman compression
 
